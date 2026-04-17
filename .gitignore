@@ -1,0 +1,18 @@
+# Backend
+backend/data/
+
+# ML models
+ml-service/models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+frontend/node_modules/
+
+# Environment files
+.env
+
+# Logs
+*.log
