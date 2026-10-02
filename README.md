@@ -71,13 +71,4 @@ npm run dev
 | H2 Console | http://localhost:8080/api/h2-console |
 | ML API Docs | http://localhost:8000/docs |
 
-## 📁 Project Structure
 
-```
-EAAP/
-├── backend/          ← Java Spring Boot
-├── ml-service/       ← Python FastAPI
-├── frontend/         ← React + Vite
-├── sample_data/      ← IBM HR Attrition CSV
-└── start.bat         ← One-click launcher
-```
